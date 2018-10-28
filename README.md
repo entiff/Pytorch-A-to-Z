@@ -14,13 +14,13 @@ tutorial 완료 후 바로 프로젝트에 적용할 수 있는 수준을 목표
 
 # Reference
 
-[Pytorch tutorial](http://pytorch.kr/)
-[김성동님의 DeepNLP models with pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
-[김성훈 교수님의 PytorchZerotoAll](https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
-[최건호님의 패스트캠퍼스 Pytorch 강의](https://github.com/GunhoChoi/PyTorch-FastCampus)
-[최윤제님의 Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial)
-[조용래님의 Deep text classification pytorch](https://github.com/dreamgonfly/deep-text-classification-pytorch)
+- [Pytorch tutorial](http://pytorch.kr/)  
+- [김성동님의 DeepNLP models with pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)  
+- [김성훈 교수님의 PytorchZerotoAll](https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)  
+- [최건호님의 패스트캠퍼스 Pytorch 강의](https://github.com/GunhoChoi/PyTorch-FastCampus)  
+- [최윤제님의 Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial)  
+- [조용래님의 Deep text classification pytorch](https://github.com/dreamgonfly/deep-text-classification-pytorch)  
 
 ### issue
 
-- 1. google colab version
+- google colab version
