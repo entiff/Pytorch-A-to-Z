@@ -12,6 +12,8 @@ Tutorial 진행이 어려우신 분들은 [모두의딥러닝](https://www.youtu
 
 ## Table of Contents
 
+#### 0. Google Colab
+- [변성윤님의 Google Colab 사용하기](https://zzsza.github.io/data/2018/08/30/google-colab/)
 
 #### 1. Pytorch Basics
 
