@@ -1,8 +1,8 @@
 ## Pytorch-A-to-Z
 
-Pytorch를 처음 사용하는 분들을 위한 한국어 Pytorch tutorial입니다.
-GPU가 없는 환경에서도 학습할 수 있도록 google colab을 이용해 제작 중입니다.
-Google Colab을 이용하시면 GPU 사용 및 학습 속도 향상을 경험할 수 있습니다.
+Pytorch를 처음 사용하는 분들을 위한 한국어 Pytorch tutorial입니다.  
+GPU가 없는 환경에서도 학습할 수 있도록 google colab을 이용해 제작 중입니다.  
+Google Colab을 이용하시면 GPU 사용 및 학습 속도 향상을 경험할 수 있습니다.  
 
 Tutorial 진행이 어려우신 분들은 [모두의딥러닝](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)을 듣고 오시면 됩니다.  
 
@@ -47,9 +47,9 @@ Tutorial 진행이 어려우신 분들은 [모두의딥러닝](https://www.youtu
 - [Pytorch tutorial](http://pytorch.kr/)  
 - [김성동님의 DeepNLP models with pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)  
 - [김성훈 교수님의 PytorchZerotoAll](https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)  
+- [조용래님의 Deep text classification pytorch](https://github.com/dreamgonfly/deep-text-classification-pytorch)  
 - [최건호님의 패스트캠퍼스 Pytorch 강의](https://github.com/GunhoChoi/PyTorch-FastCampus)  
 - [최윤제님의 Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial)  
-- [조용래님의 Deep text classification pytorch](https://github.com/dreamgonfly/deep-text-classification-pytorch)  
 
 #### Issue
 
