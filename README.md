@@ -55,4 +55,5 @@ Tutorial 진행이 어려우신 분들은 [모두의딥러닝](https://www.youtu
 
 #### Issue
 
-- google colab version (on going)
+- google colab explanation (데이터셋 - 구글 드라이브, 로컬 설정 방법)
+- NLP(LDA2vec)
